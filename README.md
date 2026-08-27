@@ -73,6 +73,14 @@ switch between automatic A* navigation and manual control.
 - 2D Computer Graphics
 - Windows / MSYS2 MinGW environment
 
+## Dependencies
+
+- C++ compiler (G++)
+- FreeGLUT
+- OpenGL
+- GLU
+- Windows / MSYS2 MinGW environment
+
 ### LIBRARIES REQUIRED
 - freeglut
 - opengl32
