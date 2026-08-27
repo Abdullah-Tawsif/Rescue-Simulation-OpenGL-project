@@ -3,14 +3,13 @@
 <img width="1246" height="687" alt="image" src="https://github.com/user-attachments/assets/1206bac2-a1f7-47c7-b37d-897afd2d6819" />
 
 
-RescueX is a 2D interactive rescue simulation developed using
+RescueX is a 2D rescue simulation developed using
 C++ and OpenGL/FreeGLUT for the Computer Graphics Laboratory.
 
 The simulation places a rescue robot inside an environment
 containing obstacles, fire zones, and stranded survivors.
 
 The robot can operate in two modes:
-
 - Automatic mode using A* pathfinding
 - Manual mode controlled by the player
 
@@ -18,14 +17,14 @@ The objective is to safely rescue all survivors and return
 them to the rescue base while managing the robot's battery
 and avoiding fire zones.
 
-## Features
+## FEATURES
 
 - Interactive 2D rescue environment
 - A* pathfinding for automatic navigation
 - Manual robot control
 - Automatic/Manual mode switching
 - Fire zones with animated fire graphics
-- Static obstacles and walls
+- Static walls
 - Survivor pickup and rescue mechanism
 - Robot battery management
 - Fire collision detection
@@ -35,7 +34,7 @@ and avoiding fire zones.
 - Fullscreen support
 - Professional HUD displaying mission information
 
-## Controls
+## CONTROLS
 
 | Key | Action |
 |-----|--------|
@@ -49,7 +48,7 @@ and avoiding fire zones.
 | F11 | Toggle Fullscreen |
 | ESC | Exit / Return |
 
-## Pathfinding
+## PATHFINDING
 
 RescueX uses the A* (A-star) pathfinding algorithm to
 calculate a safe route between the robot and its target.
@@ -64,7 +63,7 @@ The algorithm considers:
 The robot recalculates its route when necessary and can
 switch between automatic A* navigation and manual control.
 
-## Technologies Used
+## USED TECHNOLOGIES
 
 - C++
 - OpenGL
@@ -72,23 +71,14 @@ switch between automatic A* navigation and manual control.
 - GLUT
 - A* Pathfinding
 - 2D Computer Graphics
-- Git & GitHub
-
-## Dependencies
-
-- C++ compiler (G++)
-- FreeGLUT
-- OpenGL
-- GLU
 - Windows / MSYS2 MinGW environment
 
-### Required Libraries
-
+### LIBRARIES REQUIRED
 - freeglut
 - opengl32
 - glu32
 
-## Build
+## BUILD
 
 Clone the repository:
 
