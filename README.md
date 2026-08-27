@@ -82,16 +82,15 @@ switch between automatic A* navigation and manual control.
 
 Clone the repository:
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Abdullah-Tawsif/Rescue-Simulation-OpenGL-project.git
 
 Navigate to the project:
 
-cd RescueX
+cd Rescue-Simulation-OpenGL-project
 
 Compile:
 
 g++ src/main.cpp -o RescueX.exe -lfreeglut -lopengl32 -lglu32
-
 
 ## How to Run
 
