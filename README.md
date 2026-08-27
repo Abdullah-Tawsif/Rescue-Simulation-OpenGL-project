@@ -1,6 +1,7 @@
 # RescueX – AI Rescue Simulation
 
-<img width="1246" height="687" alt="image" src="https://github.com/user-attachments/assets/1206bac2-a1f7-47c7-b37d-897afd2d6819" />
+<img width="800" height="425" alt="RescueX-IntelligentEmergencyResponseSimulation gif" src="https://github.com/user-attachments/assets/7212b886-de76-4a2e-a4da-e262a4bbcff6" />
+
 
 
 RescueX is a 2D rescue simulation developed using
