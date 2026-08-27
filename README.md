@@ -100,8 +100,22 @@ After compilation, run:
 
 The application will open with the RescueX main menu.
 
-Select:
 
-START MISSION
+## SCREENSHOTS
 
-to begin the simulation.
+### Main Menu
+<img width="1250" height="675" alt="image" src="https://github.com/user-attachments/assets/f6b4c018-8a94-4de3-be11-680404d92970" />
+
+### Gameplay
+<img width="1868" height="994" alt="image" src="https://github.com/user-attachments/assets/494beb01-1afa-4231-bb31-e64781420247" />
+
+### Controls
+<img width="1678" height="876" alt="image" src="https://github.com/user-attachments/assets/e9569d9a-c54a-4e52-ac88-19904ffeae4e" />
+
+### Mission Failed
+<img width="1322" height="713" alt="image" src="https://github.com/user-attachments/assets/538f1838-4245-41cd-b254-c79fabf6818b" />
+
+### Mission Complete
+
+<img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/e296610f-8f12-4217-be28-49342f9cd110" />
+
