@@ -1,4 +1,4 @@
-# RescueX – AI Rescue Simulation
+# An A*-Based Rescue Robot Simulation
 
 <img width="800" height="425" alt="RescueX-IntelligentEmergencyResponseSimulation gif" src="https://github.com/user-attachments/assets/7212b886-de76-4a2e-a4da-e262a4bbcff6" />
 
